@@ -1,1 +1,10 @@
-
+[
+    {
+        "term": "labels.cancel",
+        "definition": "Avbryt",
+        "context": "Cancel verb",
+        "term_plural": "",
+        "reference": "lib\/js\/messages.json",
+        "comment": ""
+    }
+]
