@@ -1,5 +1,13 @@
 [
     {
+        "term": "labels.cancel",
+        "definition": "Cancel",
+        "context": "Cancel verb",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
         "term": "labels.flork",
         "definition": "Florka",
         "context": "To flork",
