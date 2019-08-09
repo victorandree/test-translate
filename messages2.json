@@ -1,8 +1,10 @@
 [
     {
         "term": "labels.flork",
-        "definition": "Flork",
+        "definition": "Florka",
         "context": "To flork",
+        "term_plural": "",
+        "reference": "",
         "comment": ""
     }
 ]
