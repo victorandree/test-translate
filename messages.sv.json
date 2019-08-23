@@ -1,17 +1,26 @@
 [
-  {
-    "term": "labels.cancel",
-    "definition": "Avbryt",
-    "context": "Button: Cancel"
-  },
-  {
-    "term": "labels.ok",
-    "definition": "OK",
-    "context": "Button: OK"
-  },
-  {
-    "term": "labels.got-it",
-    "definition": "Uppfattat",
-    "context": "Button: Got it"
-  }
+    {
+        "term": "labels.cancel",
+        "definition": "Avbryt",
+        "context": "Button: Cancel",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "labels.ok",
+        "definition": "OK",
+        "context": "Button: OK",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "labels.got-it",
+        "definition": "Uppfattat",
+        "context": "Button: Got it",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
 ]
