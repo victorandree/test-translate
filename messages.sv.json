@@ -27,5 +27,10 @@
         "term": "labels.dismiss",
         "definition": "Avvisa",
         "context": "Button: Dismiss"
+    },
+    {
+        "term": "labels.conquer",
+        "definition": "Erövra",
+        "context": "Button: Conquer"
     }
 ]

@@ -6,5 +6,13 @@
         "term_plural": "",
         "reference": "",
         "comment": ""
+    },
+    {
+        "term": "widget-count",
+        "definition": "{itemCount} {itemCount, plural,\n  one {grunka}\n  other {grunkor}\n}.",
+        "context": "Notification: Widget Count",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
     }
 ]
