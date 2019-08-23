@@ -8,5 +8,10 @@
     "term": "labels.ok",
     "definition": "OK",
     "context": "Button: OK"
+  },
+  {
+    "term": "labels.got-it",
+    "definition": "Uppfattat",
+    "context": "Button: Got it"
   }
 ]
