@@ -1,0 +1,12 @@
+[
+  {
+    "term": "labels.cancel",
+    "definition": "Avbryt",
+    "context": "Button: Cancel"
+  },
+  {
+    "term": "labels.ok",
+    "definition": "OK",
+    "context": "Button: OK"
+  }
+]
