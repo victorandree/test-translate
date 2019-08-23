@@ -1,12 +1,26 @@
 [
-  {
-    "term": "labels.cancel",
-    "definition": "Cancel",
-    "context": "Button: Cancel"
-  },
-  {
-    "term": "labels.ok",
-    "definition": "OK",
-    "context": "Button: OK"
-  }
+    {
+        "term": "labels.cancel",
+        "definition": "Cancel",
+        "context": "Button: Cancel",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "labels.ok",
+        "definition": "OK",
+        "context": "Button: OK",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "labels.got-it",
+        "definition": "Got it",
+        "context": "Button: Got it",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
 ]
