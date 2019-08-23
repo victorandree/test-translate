@@ -4,7 +4,7 @@
         "definition": "Avbryt",
         "context": "Button: Cancel",
         "term_plural": "",
-        "reference": "",
+        "reference": "src/components/buttons.ts",
         "comment": ""
     },
     {
@@ -12,7 +12,7 @@
         "definition": "OK",
         "context": "Button: OK",
         "term_plural": "",
-        "reference": "",
+        "reference": "src/components/buttons.ts",
         "comment": ""
     },
     {
@@ -20,17 +20,19 @@
         "definition": "Uppfattat",
         "context": "Button: Got it",
         "term_plural": "",
-        "reference": "",
+        "reference": "src/components/buttons.ts",
         "comment": ""
     },
     {
         "term": "labels.dismiss",
         "definition": "Avvisa",
-        "context": "Button: Dismiss"
+        "context": "Button: Dismiss",
+        "reference": "src/components/buttons.ts"
     },
     {
         "term": "labels.conquer",
         "definition": "Erövra",
-        "context": "Button: Conquer"
+        "context": "Button: Conquer",
+        "reference": "src/components/buttons.ts"
     }
 ]
