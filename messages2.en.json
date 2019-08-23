@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "term": "inbox-count",
+        "definition": "{itemCount} {itemCount, plural,\n  one {item}\n  other {items}\n}.",
+        "context": "Notification: Inbox Count",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
+]
