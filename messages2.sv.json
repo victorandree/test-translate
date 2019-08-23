@@ -1,0 +1,7 @@
+[
+  {
+    "term": "inbox-count",
+    "definition": "{itemCount} {itemCount, plural,\n  one {objekt}\n  other {objekt}\n}.",
+    "context": "Notification: Inbox Count"
+  }
+]
